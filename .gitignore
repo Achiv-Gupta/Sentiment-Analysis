@@ -45,7 +45,7 @@ data/
 # raw_data/
 # processed_data/
 # Or specific file types:
-# *.csv
+ *.csv
 # *.json
 # *.parquet
 
