@@ -31,7 +31,6 @@ The strategy was rigorously backtested using **Python** for a historical period 
 * **Python:** Primary programming language.
 * **Pandas:** For robust data manipulation, cleaning, and time-series analysis.
 * **Hugging Face Transformers:** Specifically for implementing and leveraging the **FinBERT** pre-trained language model for financial sentiment analysis.
-* **NumPy:** For numerical operations.
 * **Yfinance (or similar data source):** For retrieving historical stock data.
 * **Custom Backtesting Engine:** The backtesting simulation was built directly in Python (not relying on external backtesting frameworks like Backtrader), demonstrating a deep understanding of trade execution logic, position management, and performance calculation.
 
