@@ -1,9 +1,5 @@
 # Sentiment-Analysis
 
-Here's the README content in Markdown format, without the "Installation & Usage" section:
-
----
-
 # AI-Powered Financial News Sentiment Trading Strategy
 
 ## Project Overview
@@ -22,7 +18,7 @@ The core trading strategy is designed to capitalize on significant negative news
 
 * **News Data:** Comprehensive historical news headlines and associated metadata for at least **10 years** for each of the selected companies.
 * **Stock Data:** Historical daily stock prices (Open, High, Low, Close, Volume) for the corresponding companies, covering the period from 2009 to 2020.
-* **Company Selection:** The strategy was tested on the **10 companies with the largest market capitalization** on the NASDAQ exchange around the start of the backtesting period (e.g., end of 2008/early 2009).
+* **Company Selection:** The strategy was tested on the **10 companies with the largest market capitalization** on the NASDAQ exchange around the start of the backtesting period (e.g., mid 2009).
 
 ## Backtesting & Results
 
