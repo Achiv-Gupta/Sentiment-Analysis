@@ -1,5 +1,3 @@
-# Sentiment-Analysis
-
 # AI-Powered Financial News Sentiment Trading Strategy
 
 ## Project Overview
